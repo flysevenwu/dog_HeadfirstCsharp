@@ -1,0 +1,9 @@
+D:\C#projects\leetcode\dog\dog\bin\Debug\dog.exe.config
+D:\C#projects\leetcode\dog\dog\bin\Debug\dog.exe
+D:\C#projects\leetcode\dog\dog\bin\Debug\dog.pdb
+D:\C#projects\leetcode\dog\dog\obj\Debug\dog.csprojResolveAssemblyReference.cache
+D:\C#projects\leetcode\dog\dog\obj\Debug\dog.Form1.resources
+D:\C#projects\leetcode\dog\dog\obj\Debug\dog.Properties.Resources.resources
+D:\C#projects\leetcode\dog\dog\obj\Debug\dog.csproj.GenerateResource.Cache
+D:\C#projects\leetcode\dog\dog\obj\Debug\dog.exe
+D:\C#projects\leetcode\dog\dog\obj\Debug\dog.pdb
